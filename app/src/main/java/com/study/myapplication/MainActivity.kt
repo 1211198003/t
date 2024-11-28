@@ -18,6 +18,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         "project 2"
         "project 2"
+        "merge"
         enableEdgeToEdge()
         setContent {
             MyApplicationTheme {
