@@ -16,7 +16,7 @@ import com.study.myapplication.ui.theme.MyApplicationTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        "project1"
+        "merge"
         enableEdgeToEdge()
         setContent {
             MyApplicationTheme {
